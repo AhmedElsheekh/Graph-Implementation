@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661270317 source:f:\my valuble projects\graphimplementation\main.cpp
+	<iostream>
+	<map>
+	<list>
+	<vector>
+	<set>
+
